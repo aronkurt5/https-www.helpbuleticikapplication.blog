@@ -1,0 +1,176 @@
+--------- beginning of main
+09-25 21:32:58.883  9435  9435 I wda.cheats:gbox: Using CollectorTypeCMC GC.
+09-25 21:32:58.885  9435  9435 E wda.cheats:gbox: Not starting debugger since process cannot load the jdwp agent.
+09-25 21:32:58.889  9435  9435 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-25 21:32:58.899  9435  9435 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10199; state: ENABLED
+09-25 21:32:58.906  9435  9435 D nativeloader: Configuring clns-4 for other apk /data/app/~~-MEuuQT9fyN4HRvv77c6vg==/com.lawda.cheats-_7s_b04uyyiq-iFw_s2AWg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~-MEuuQT9fyN4HRvv77c6vg==/com.lawda.cheats-_7s_b04uyyiq-iFw_s2AWg==/lib/arm64:/data/app/~~-MEuuQT9fyN4HRvv77c6vg==/com.lawda.cheats-_7s_b04uyyiq-iFw_s2AWg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.lawda.cheats
+09-25 21:32:58.911  9435  9435 D nativeloader: Load libframework-connectivity-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity.jar: ok
+09-25 21:32:58.912  9435  9435 V GraphicsEnvironment: ANGLE Developer option for 'com.lawda.cheats' set to: 'default'
+09-25 21:32:58.912  9435  9435 V GraphicsEnvironment: ANGLE GameManagerService for com.lawda.cheats: false
+09-25 21:32:58.913  9435  9435 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+09-25 21:32:58.915  9435  9435 D NetworkSecurityConfig: Using Network Security Config from resource Lawda_Cheats debugBuild: false
+09-25 21:32:58.915  9435  9435 D NetworkSecurityConfig: Using Network Security Config from resource Lawda_Cheats debugBuild: false
+09-25 21:32:58.918  9435  9435 W wda.cheats:gbox: Accessing hidden method Ldalvik/system/VMRuntime;->setHiddenApiExemptions([Ljava/lang/String;)V (blocked,core-platform-api, reflection, denied)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: reflect bootstrap failed:
+09-25 21:32:58.919  9435  9435 W BootstrapClass: java.lang.reflect.InvocationTargetException
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at java.lang.reflect.Method.invoke(Native Method)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at r0.a.<clinit>(SourceFile:79)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at com.gbox.GBoxCore.doAttachBaseContext(SourceFile:17)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at com.gloader.app.BoxApp.attachBaseContext(Unknown Source:12)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.Application.attach(Application.java:346)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.Instrumentation.newApplication(Instrumentation.java:1233)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.LoadedApk.makeApplicationInner(LoadedApk.java:1466)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.LoadedApk.makeApplicationInner(LoadedApk.java:1399)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7024)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.ActivityThread.-$$Nest$mhandleBindApplication(Unknown Source:0)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2207)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.os.Looper.loopOnce(Looper.java:201)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.os.Looper.loop(Looper.java:288)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at android.app.ActivityThread.main(ActivityThread.java:8186)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at java.lang.reflect.Method.invoke(Native Method)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:569)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1019)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: Caused by: java.lang.NoSuchMethodException: dalvik.system.VMRuntime.setHiddenApiExemptions [class [Ljava.lang.String;]
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at java.lang.Class.getMethod(Class.java:2950)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	at java.lang.Class.getDeclaredMethod(Class.java:2929)
+09-25 21:32:58.919  9435  9435 W BootstrapClass: 	... 18 more
+09-25 21:32:58.919  9435  9435 E wda.cheats:gbox: Attempt to load writable dex file: /data/user/0/com.lawda.cheats/code_cache/1727289178919.dex
+09-25 21:32:58.919  9435  9435 W wda.cheats:gbox: Opening an oat file without a class loader. Are you using the deprecated DexFile APIs?
+09-25 21:32:58.919  9435  9435 W wda.cheats:gbox: DexFile /data/user/0/com.lawda.cheats/code_cache/1727289178919.dex is in boot class path but is not in a known location
+09-25 21:32:58.947  9435  9435 D HookManager: hook: com.gbox.fake.service.IAppWidgetManagerProxy@dcc73bc
+09-25 21:32:58.950  9435  9435 D HookManager: hook: com.gbox.fake.service.IAppOpsManagerProxy@52b0ac1
+09-25 21:32:58.954  9435  9435 D HookManager: hook: com.gbox.fake.service.ISystemUpdateProxy@7a5883e
+09-25 21:32:58.955  9435  9435 D HookManager: hook error: com.gbox.fake.service.ISystemUpdateProxy@7a5883e
+09-25 21:32:58.955  9435  9435 D HookManager: hook: com.gbox.fake.service.IPhoneSubInfoProxy@56103b5
+09-25 21:32:58.955  9435  9435 D HookManager: hook: com.gbox.fake.service.IDeviceIdentifiersPolicyProxy@2b5b2d8
+09-25 21:32:58.956  9435  9435 D HookManager: hook: com.gbox.fake.service.ILocationManagerProxy@f1af46d
+09-25 21:32:58.960  9435  9435 D HookManager: hook: com.gbox.fake.service.IShortcutManagerProxy@3627cee
+09-25 21:32:58.962  9435  9435 D HookManager: hook: com.gbox.fake.service.IConnectivityManagerProxy@af34bab
+09-25 21:32:58.963  9435  9435 D HookManager: hook: com.gbox.fake.service.IPermissionManagerProxy@a5d4e52
+09-25 21:32:58.969  9435  9435 D HookManager: hook: com.gbox.fake.service.IMediaSessionManagerProxy@7c2759b
+09-25 21:32:58.972  9435  9435 D HookManager: hook: com.gbox.fake.service.IJobServiceProxy@78f34e4
+09-25 21:32:58.973  9435  9435 D HookManager: hook: com.gbox.fake.service.IAutofillManagerProxy@10e5149
+09-25 21:32:58.977  9435  9435 D HookManager: hook: com.gbox.fake.service.IAlarmManagerProxy@a7a3c7c
+09-25 21:32:58.978  9435  9435 D HookManager: hook: com.gbox.fake.service.IGraphicsStatsProxy@bc9e081
+09-25 21:32:58.978  9435  9435 D HookManager: hook: com.gbox.fake.service.context.ContentServiceProxy@a5db2
+09-25 21:32:58.979  9435  9435 D HookManager: hook: com.gbox.fake.service.IStorageStatsManagerProxy@d6efa5f
+09-25 21:32:58.980  9435  9435 D HookManager: hook: com.gbox.fake.service.libcore.OsProxy@245f798
+09-25 21:32:58.981  9435  9435 D HookManager: hook: com.gbox.fake.service.IWifiManagerProxy@987d657
+09-25 21:32:59.004  9435  9435 D HookManager: hook: com.gbox.fake.service.ITelephonyRegistryProxy@10821b0
+09-25 21:32:59.005  9435  9435 D HookManager: hook: com.gbox.fake.service.IMediaRouterServiceProxy@5c41de5
+09-25 21:32:59.006  9435  9435 D HookManager: hook: com.gbox.fake.service.IFingerprintManagerProxy@9d31e86
+09-25 21:32:59.007  9435  9435 D HookManager: hook: com.gbox.fake.service.IStorageManagerProxy@3d50347
+09-25 21:32:59.008  9435  9435 D HookManager: hook: com.gbox.fake.service.IActivityTaskManagerProxy@cff56e0
+09-25 21:32:59.020  9435  9435 D HookManager: hook: com.gbox.fake.service.ITelephonyManagerProxy@52936d1
+09-25 21:32:59.024  9435  9435 D HookManager: hook: com.gbox.fake.service.IContextHubServiceProxy@4586ec2
+09-25 21:32:59.025  9435  9435 D HookManager: hook error: com.gbox.fake.service.IContextHubServiceProxy@4586ec2
+09-25 21:32:59.025  9435  9435 D HookManager: hook: com.gbox.fake.service.IDevicePolicyManagerProxy@f9aef09
+09-25 21:32:59.030  9435  9435 D HookManager: hook: com.gbox.fake.service.IWindowManagerProxy@79141a
+09-25 21:32:59.031  9435  9435 D HookManager: hook: com.gbox.fake.service.IAccountManagerProxy@9f1357d
+09-25 21:32:59.033  9435  9435 D HookManager: hook: com.gbox.fake.service.IVpnManagerProxy@5cc7dbe
+09-25 21:32:59.039  9435  9435 D HookManager: hook: com.gbox.fake.service.context.RestrictionsManagerProxy@13ffd3b
+09-25 21:32:59.044  9435  9435 D HookManager: hook: com.gbox.fake.service.ILauncherAppsProxy@43d8604
+09-25 21:32:59.046  9435  9435 D HookManager: hook: com.gbox.fake.service.IPersistentDataBlockServiceProxy@288a5e9
+09-25 21:32:59.048  9435  9435 D HookManager: hook error: com.gbox.fake.service.IPersistentDataBlockServiceProxy@288a5e9
+09-25 21:32:59.048  9435  9435 D HookManager: hook: com.gbox.fake.service.INotificationManagerProxy@e3d919c
+09-25 21:32:59.049  9435  9435 D HookManager: hook: com.gbox.fake.service.IWifiScannerProxy@8a6ab2b
+09-25 21:32:59.050  9435  9435 D HookManager: hook error: com.gbox.fake.service.IWifiScannerProxy@8a6ab2b
+09-25 21:32:59.050  9435  9435 D HookManager: hook: com.gbox.fake.service.IVibratorServiceProxy@5602b88
+09-25 21:32:59.051  9435  9435 D HookManager: hook: com.gbox.fake.service.IPowerManagerProxy@a5b365d
+09-25 21:32:59.053  9435  9435 D HookManager: hook: com.gbox.fake.service.IActivityManagerProxy@c2db31e
+09-25 21:32:59.064  9435  9435 D HookManager: hook: com.gbox.fake.service.HCallbackProxy@eccb51b
+09-25 21:32:59.064  9435  9435 D HookManager: hook: com.gbox.fake.service.IUserManagerProxy@ef07f6
+09-25 21:32:59.065  9435  9435 D HookManager: hook: com.gbox.fake.service.IAccessibilityManagerProxy@492ac93
+09-25 21:32:59.069  9435  9435 D HookManager: hook: com.gbox.fake.service.IDisplayManagerProxy@eed6ada
+09-25 21:32:59.071  9435  9435 D HookManager: hook: com.gbox.fake.service.IPackageManagerProxy@17273d
+09-25 21:32:59.072  9435  9435 D HookManager: hook: com.gbox.fake.service.IActivityClientProxy@fcb200
+09-25 21:32:59.074  9435  9435 D HookManager: hook: com.gbox.fake.service.INetworkManagementServiceProxy@b52dcfb
+09-25 21:32:59.075  9435  9435 D HookManager: hook: com.gbox.fake.delegate.AppInstrumentation@16ad6c4
+--------- beginning of system
+09-25 21:32:59.113  9435  9435 D ActivityThread: Loading provider com.lawda.cheats.SystemCallProvider: com.gbox.core.system.SystemCallProvider
+09-25 21:32:59.113  9435  9435 D SystemCallProvider: call: VM, Bundle[{_B_|_server_name_=package_manager}]
+09-25 21:32:59.114  9435  9435 D GBoxCore: getService: package_manager, com.gbox.core.system.pm.BPackageManagerService@dcae3a9
+09-25 21:32:59.133  9435  9448 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=88]
+09-25 21:32:59.134  9411  9411 D GBoxCore: getService: activity_manager, android.os.BinderProxy@1901173
+09-25 21:32:59.134  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=76]
+09-25 21:32:59.134  9411  9411 D GBoxCore: getService: job_manager, android.os.BinderProxy@19aa830
+09-25 21:32:59.134  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+09-25 21:32:59.135  9411  9411 D GBoxCore: getService: package_manager, android.os.BinderProxy@3386ca9
+09-25 21:32:59.135  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+09-25 21:32:59.135  9411  9411 D GBoxCore: getService: storage_manager, android.os.BinderProxy@3d7f22e
+09-25 21:32:59.135  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=80]
+09-25 21:32:59.135  9411  9411 D GBoxCore: getService: user_manager, android.os.BinderProxy@c5051cf
+09-25 21:32:59.136  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+09-25 21:32:59.136  9411  9411 D GBoxCore: getService: xposed_manager, android.os.BinderProxy@c3a175c
+09-25 21:32:59.136  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+09-25 21:32:59.136  9411  9411 D GBoxCore: getService: account_manager, android.os.BinderProxy@5022a65
+09-25 21:32:59.136  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=88]
+09-25 21:32:59.136  9411  9411 D GBoxCore: getService: location_manager, android.os.BinderProxy@9f5033a
+09-25 21:32:59.137  9435  9447 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=96]
+09-25 21:32:59.137  9411  9411 D GBoxCore: getService: notification_manager, android.os.BinderProxy@d2a3beb
+09-25 21:32:59.148  9411  9411 I MSYNC3-VariableRefreshRate: Variable refreshrate is disabled
+09-25 21:32:59.157  9411  9457 D libMEOW : meow new tls: 0xb400007a7fd56090
+09-25 21:32:59.157  9411  9457 D libMEOW : meow reload base cfg path: na
+09-25 21:32:59.157  9411  9457 D libMEOW : meow reload overlay cfg path: na
+09-25 21:32:59.158  9411  9457 E QT      : [QT]file does not exist
+09-25 21:32:59.158  9411  9457 D libMEOW : applied 1 plugins for [com.lawda.cheats]:
+09-25 21:32:59.158  9411  9457 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007a3fcd7820
+09-25 21:32:59.159  9411  9457 D libMEOW : rebuild call chain: 0xb400007a7fd660a0
+09-25 21:32:59.159  9411  9457 D libMEOW : meow delete tls: 0xb400007a7fd56090
+09-25 21:32:59.160  9411  9411 D nativeloader: Load /data/app/~~-MEuuQT9fyN4HRvv77c6vg==/com.lawda.cheats-_7s_b04uyyiq-iFw_s2AWg==/lib/arm64/libAntiCrack.so using ns clns-4 from class loader (caller=/data/app/~~-MEuuQT9fyN4HRvv77c6vg==/com.lawda.cheats-_7s_b04uyyiq-iFw_s2AWg==/base.apk): ok
+09-25 21:32:59.154  9411  9411 W om.lawda.cheats: type=1400 audit(0.0:439468): avc: denied { read } for name="version" dev="proc" ino=4026532008 scontext=u:r:untrusted_app:s0:c199,c256,c512,c768 tcontext=u:object_r:proc_version:s0 tclass=file permissive=0 app=com.lawda.cheats
+09-25 21:32:59.154  9411  9411 W om.lawda.cheats: type=1400 audit(0.0:439469): avc: denied { search } for name="net" dev="sysfs" ino=23090 scontext=u:r:untrusted_app:s0:c199,c256,c512,c768 tcontext=u:object_r:sysfs_net:s0 tclass=dir permissive=0 app=com.lawda.cheats
+09-25 21:32:59.154  9411  9411 W om.lawda.cheats: type=1400 audit(0.0:439470): avc: denied { search } for name="net" dev="sysfs" ino=23090 scontext=u:r:untrusted_app:s0:c199,c256,c512,c768 tcontext=u:object_r:sysfs_net:s0 tclass=dir permissive=0 app=com.lawda.cheats
+09-25 21:32:59.171  9411  9411 D nativeloader: Load /data/app/~~-MEuuQT9fyN4HRvv77c6vg==/com.lawda.cheats-_7s_b04uyyiq-iFw_s2AWg==/lib/arm64/libLawda-Cheats.so using ns clns-4 from class loader (caller=/data/app/~~-MEuuQT9fyN4HRvv77c6vg==/com.lawda.cheats-_7s_b04uyyiq-iFw_s2AWg==/base.apk): ok
+09-25 21:32:59.166  9411  9411 W om.lawda.cheats: type=1400 audit(0.0:439471): avc: denied { read } for name="version" dev="proc" ino=4026532008 scontext=u:r:untrusted_app:s0:c199,c256,c512,c768 tcontext=u:object_r:proc_version:s0 tclass=file permissive=0 app=com.lawda.cheats
+09-25 21:32:59.166  9411  9411 W om.lawda.cheats: type=1400 audit(0.0:439472): avc: denied { search } for name="net" dev="sysfs" ino=23090 scontext=u:r:untrusted_app:s0:c199,c256,c512,c768 tcontext=u:object_r:sysfs_net:s0 tclass=dir permissive=0 app=com.lawda.cheats
+09-25 21:32:59.220  9411  9411 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+09-25 21:32:59.250  9411  9411 D ProgressBar: mIsVigourStyle: false
+09-25 21:32:59.253  9411  9411 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10199; state: ENABLED
+09-25 21:32:59.258  9411  9411 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10199; state: ENABLED
+09-25 21:32:59.267  9411  9411 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@d038523
+09-25 21:32:59.271  9411  9411 D VRI[StartActivity]: hardware acceleration = true, forceHwAccelerated = false
+09-25 21:32:59.276  9411  9411 D libMEOW : meow new tls: 0xb400007a7fd56090
+09-25 21:32:59.276  9411  9411 D libMEOW : applied 1 plugins for [com.lawda.cheats]:
+09-25 21:32:59.276  9411  9411 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007a3fcd7820
+09-25 21:32:59.276  9411  9411 D libMEOW : rebuild call chain: 0xb400007a7fd660a0
+09-25 21:32:59.277  9411  9411 D InputTransport: Create ARC handle: 0xb40000789fd131b0
+09-25 21:32:59.299  9411  9411 D VRI[StartActivity]: hardware acceleration = true, forceHwAccelerated = false
+09-25 21:32:59.301  9411  9453 D nativeloader: Load libpowerhalwrap_jni.so using system ns (caller=/system/framework/mediatek-framework.jar): ok
+09-25 21:32:59.302  9411  9453 I PowerHalWrapper: PowerHalWrapper.getInstance 
+09-25 21:32:59.302  9411  9411 D InputTransport: Create ARC handle: 0xb40000789fd123d0
+09-25 21:32:59.303  9411  9411 I Choreographer: Skipped 53 frames!  The application may be doing too much work on its main thread.
+09-25 21:32:59.312  9411  9411 D BufferQueueConsumer: [](id:24c300000000,api:0,p:-1,c:9411) connect: controlledByApp=false
+09-25 21:32:59.314  9411  9411 E FBI     : Can't load library: dlopen failed: library "libmagtsync.so" not found
+09-25 21:32:59.315  9411  9455 D libMEOW : meow new tls: 0xb400007a7fce6020
+09-25 21:32:59.315  9411  9455 D libMEOW : applied 1 plugins for [com.lawda.cheats]:
+09-25 21:32:59.315  9411  9455 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007a3fcd7820
+09-25 21:32:59.315  9411  9455 D libMEOW : rebuild call chain: 0xb400007a7fd760b0
+09-25 21:32:59.329  9411  9455 D skia    : GrGLMakeAssembledInterface verStr OpenGL ES 3.2 v1.r32p1-01eac0.394145956bc7cd8e697b330aba11e3d3
+09-25 21:32:59.329  9411  9455 D skia    : GrGLMakeAssembledGLESInterface verStr OpenGL ES 3.2 v1.r32p1-01eac0.394145956bc7cd8e697b330aba11e3d3
+09-25 21:32:59.329  9411  9455 D skia    : extensions init verString=OpenGL ES 3.2 v1.r32p1-01eac0.394145956bc7cd8e697b330aba11e3d3
+09-25 21:32:59.346  9411  9455 I mali    : [DebugProp] GPU Debug-Mechanism Disable !
+09-25 21:32:59.393  9411  9455 D BLASTBufferQueue: [VRI[StartActivity]#0](f:0,a:1) acquireNextBufferLocked size=1218x540 mFrameNumber=1 applyTransaction=true mTimestamp=216655584476913(auto) mPendingTransactions.size=0 graphicBufferId=40419937222656 transform=0
+09-25 21:32:59.397  9411  9455 W Parcel  : Expecting binder but got null!
+09-25 21:32:59.400  9411  9411 D BufferQueueConsumer: [](id:24c300000001,api:0,p:-1,c:9411) connect: controlledByApp=false
+09-25 21:32:59.415  9411  9455 D BLASTBufferQueue: [VRI[StartActivity]#1](f:0,a:1) acquireNextBufferLocked size=1080x2460 mFrameNumber=1 applyTransaction=true mTimestamp=216655605926220(auto) mPendingTransactions.size=0 graphicBufferId=40419937222663 transform=0
+09-25 21:32:59.415  9411  9455 W Parcel  : Expecting binder but got null!
+09-25 21:32:59.424  9411  9430 I libPerfCtl: xgfNotifyBufferQuota ret=-1
+09-25 21:32:59.559  9411  9464 D TrafficStats: tagSocket(99) with statsTag=0xffffffff, statsUid=-1
+09-25 21:33:00.583  9411  9411 D View    : [Warning] assignParent to null: this = DecorView@fe0ac79[StartActivity]
+09-25 21:33:00.593  9411  9411 D InputTransport: Destroy ARC handle: 0xb40000789fd131b0
+09-25 21:33:00.605  9411  9430 D BLASTBufferQueue: [VRI[StartActivity]#0](f:0,a:2) destructor()
+09-25 21:33:00.605  9411  9430 D BufferQueueConsumer: [VRI[StartActivity]#0(BLAST Consumer)0](id:24c300000000,api:0,p:-1,c:9411) disconnect
+09-25 21:33:00.629  9411  9509 D libMEOW : meow new tls: 0xb400007a7fe56190
+09-25 21:33:00.629  9411  9509 D libMEOW : applied 1 plugins for [com.lawda.cheats]:
+09-25 21:33:00.629  9411  9509 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007a3fcd7820
+09-25 21:33:00.629  9411  9509 D libMEOW : rebuild call chain: 0xb400007a7fe661a0
+09-25 21:33:00.629  9411  9509 D libMEOW : meow delete tls: 0xb400007a7fe56190
+09-25 21:33:00.710  9411  9411 D VRI[LoginActivity]: hardware acceleration = true, forceHwAccelerated = false
+09-25 21:33:00.718  9411  9411 D InputTransport: Create ARC handle: 0xb40000789fd17ec0
+09-25 21:33:00.737  9411  9411 D BufferQueueConsumer: [](id:24c300000002,api:0,p:-1,c:9411) connect: controlledByApp=false
+09-25 21:33:00.775  9411  9455 D BLASTBufferQueue: [VRI[LoginActivity]#2](f:0,a:1) acquireNextBufferLocked size=1080x2460 mFrameNumber=1 applyTransaction=true mTimestamp=216656966323374(auto) mPendingTransactions.size=0 graphicBufferId=40419937222670 transform=0
+09-25 21:33:00.776  9411  9455 W Parcel  : Expecting binder but got null!
+09-25 21:33:01.055  9411  9411 D BLASTBufferQueue: [VRI[StartActivity]#1](f:0,a:1) destructor()
+09-25 21:33:01.055  9411  9411 D BufferQueueConsumer: [V

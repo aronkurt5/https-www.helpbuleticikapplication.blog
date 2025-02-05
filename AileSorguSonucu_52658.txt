@@ -1,0 +1,241 @@
+             
+        --- Aile Sorgu Sonucu Gönderim Sistemi | None --- 
+
+
+
+Aile Sorgu (Referans Anne TC):
+
+Yakýnlýk Durumu: Kendisi
+Tc Numarasý: 10612868608
+Adý:FERZENDE
+Soyadý: DÝNÇ
+Doðum Tarihi: 25.3.1979
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: ÝSTANBUL
+Nufus Ýlçe: SANCAKTEPE
+Uyruk: TR
+
+
+Yakýnlýk Durumu: Babasý
+Tc Numarasý: 10681866376
+Adý:NUREDDÝN
+Soyadý: DÝNÇ
+Doðum Tarihi: 15.10.1951
+Anne Adý: SAADET
+Anne Tc: 10687866158
+Baba Adý: HASAN
+Baba Tc: 10711865324
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: None
+
+Yakýnlýk Durumu: Annesi
+Tc Numarasý: 10651867396
+Adý:HADÝCE
+Soyadý: DÝNÇ
+Doðum Tarihi: 1.1.1949
+Anne Adý: BÝNEFÞ
+Anne Tc: 11380843064
+Baba Adý: ÖMER
+Baba Tc: 11389842792
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: None
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10525871504
+Adý:FÝLÝZ
+Soyadý: KARAEL
+Doðum Tarihi: 18.9.1990
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: ÝSTANBUL
+Nufus Ýlçe: SANCAKTEPE
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10645867524
+Adý:HALÝSE
+Soyadý: HANÇA
+Doðum Tarihi: 2.5.1974
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: AHLAT
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10600869044
+Adý:BURHAN
+Soyadý: DÝNÇ
+Doðum Tarihi: 1.12.1981
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10480873056
+Adý:BETÜL
+Soyadý: SÝR
+Doðum Tarihi: 29.6.1993
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10486872848
+Adý:CÜNEYT
+Soyadý: DÝNÇ
+Doðum Tarihi: 24.10.1991
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10564870292
+Adý:MENDERES
+Soyadý: DÝNÇ
+Doðum Tarihi: 7.5.1985
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10594869204
+Adý:YILDIZ
+Soyadý: DÝNÇ
+Doðum Tarihi: 1.4.1983
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10537871158
+Adý:TEKÝN
+Soyadý: DÝNÇ
+Doðum Tarihi: 15.2.1989
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10558870420
+Adý:ÖZLEM
+Soyadý: KIZILARSLAN
+Doðum Tarihi: 1.9.1986
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: ÝSTANBUL
+Nufus Ýlçe: SANCAKTEPE
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10648867460
+Adý:YÜKSEL
+Soyadý: DÝNÇ
+Doðum Tarihi: 15.4.1973
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10435874596
+Adý:ÞAHÝN
+Soyadý: DÝNÇ
+Doðum Tarihi: 15.7.1997
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: MUÞ
+Nufus Ýlçe: MERKEZ
+Uyruk: TR
+
+Yakýnlýk Durumu: Kardeþi
+Tc Numarasý: 10483872902
+Adý:NARYE
+Soyadý: SURETLÝ
+Doðum Tarihi: 29.6.1993
+Anne Adý: HADÝCE
+Anne Tc: 10651867396
+Baba Adý: NUREDDÝN
+Baba Tc: 10681866376
+Nufus ÝL: BÝTLÝS
+Nufus Ýlçe: GÜROYMAK
+Uyruk: TR
+
+Yakýnlýk Durumu: Çocuðu
+Tc Numarasý: 10588869746
+Adý:BERFÝN
+Soyadý: DÝNÇ
+Doðum Tarihi: 4.2.2005
+Anne Adý: MEDÝNE
+Anne Tc: 35125062374
+Baba Adý: FERZENDE
+Baba Tc: 10612868608
+Nufus ÝL: ÝSTANBUL
+Nufus Ýlçe: SANCAKTEPE
+Uyruk: TR
+
+Yakýnlýk Durumu: Çocuðu
+Tc Numarasý: 54652092586
+Adý:MERVE
+Soyadý: DÝNÇ
+Doðum Tarihi: 14.6.2007
+Anne Adý: MEDÝNE
+Anne Tc: 35125062374
+Baba Adý: FERZENDE
+Baba Tc: 10612868608
+Nufus ÝL: ÝSTANBUL
+Nufus Ýlçe: SANCAKTEPE
+Uyruk: TR
+
+Yakýnlýk Durumu: Çocuðu
+Tc Numarasý: 63292439828
+Adý:SONGÜL
+Soyadý: DÝNÇ
+Doðum Tarihi: 26.10.2009
+Anne Adý: MEDÝNE
+Anne Tc: 35125062374
+Baba Adý: FERZENDE
+Baba Tc: 10612868608
+Nufus ÝL: ÝSTANBUL
+Nufus Ýlçe: SANCAKTEPE
+Uyruk: TR
